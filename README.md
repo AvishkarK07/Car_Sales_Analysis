@@ -1,5 +1,7 @@
 # Car_Specifications-Analysis
 
+<img width="315" height="250" alt="Screenshot 2025-09-14 211235" src="https://github.com/user-attachments/assets/851f4112-a48a-460d-a69d-a8a3d6ca81d5" />
+
 # 🚗 Car Sales Dataset
 
 ## 📌 Overview
