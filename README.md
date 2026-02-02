@@ -10,6 +10,12 @@ It is ideal for **data analysis, dashboard creation (Tableau / Power BI), and ma
 
 ---
 
+## Tool Used :
+<img width="300" height="250" alt="DASH_BOARD" src= "https://github.com/AvishkarK07/Electric_Vehicle_Analysis/blob/main/image/tableau.jpg" />
+
+
+---
+
 ## 📂 Dataset Information
 
 - **Total Records:** 2,500  
